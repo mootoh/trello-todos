@@ -1,0 +1,15 @@
+{
+  "name": "trello-todos",
+  "version": "1.0.0",
+  "description": "Fetch all Checklist items from all boards belong to you.",
+  "main": "fetch.js",
+  "dependencies": {
+    "node-trello": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
